@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/zypher.dir/link.d CMakeFiles/zypher.dir/src/main.cpp.o CMakeFiles/zypher.dir/src/calc.cpp.o -o zypher

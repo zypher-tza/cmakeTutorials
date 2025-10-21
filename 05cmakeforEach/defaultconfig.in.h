@@ -1,0 +1,9 @@
+#pragma once
+
+#define ProductType "@ProductType@"
+#define ProductYear "@PRODUCT_YEAR@"
+
+#define MILITARYAPP_VERSION_MAJOR @MILITARYAPP_VERSION_MAJOR@
+#define MILITARYAPP_VERSION_MINOR @MILITARYAPP_VERSION_MINOR@
+
+#define AUTHOR "@AUTHOR@"

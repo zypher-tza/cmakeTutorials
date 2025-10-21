@@ -1,0 +1,6 @@
+/home/zypher/Documents/cProgramming/04cmakeLib/build/CMakeFiles/revocoder.dir
+/home/zypher/Documents/cProgramming/04cmakeLib/build/CMakeFiles/edit_cache.dir
+/home/zypher/Documents/cProgramming/04cmakeLib/build/CMakeFiles/rebuild_cache.dir
+/home/zypher/Documents/cProgramming/04cmakeLib/build/lib/CMakeFiles/wifi_lib.dir
+/home/zypher/Documents/cProgramming/04cmakeLib/build/lib/CMakeFiles/edit_cache.dir
+/home/zypher/Documents/cProgramming/04cmakeLib/build/lib/CMakeFiles/rebuild_cache.dir

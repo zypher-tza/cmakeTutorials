@@ -1,0 +1,3 @@
+/home/zypher/Documents/cProgramming/05cmakeConfig/build/CMakeFiles/hellobot.dir
+/home/zypher/Documents/cProgramming/05cmakeConfig/build/CMakeFiles/edit_cache.dir
+/home/zypher/Documents/cProgramming/05cmakeConfig/build/CMakeFiles/rebuild_cache.dir

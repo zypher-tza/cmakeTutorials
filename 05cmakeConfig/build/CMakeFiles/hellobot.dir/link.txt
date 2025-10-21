@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/hellobot.dir/link.d CMakeFiles/hellobot.dir/src/main.cpp.o -o hellobot

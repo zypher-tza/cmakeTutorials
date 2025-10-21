@@ -1,0 +1,3 @@
+/home/zypher/Documents/cProgramming/05cmakeforEach/build/CMakeFiles/zypher.dir
+/home/zypher/Documents/cProgramming/05cmakeforEach/build/CMakeFiles/edit_cache.dir
+/home/zypher/Documents/cProgramming/05cmakeforEach/build/CMakeFiles/rebuild_cache.dir

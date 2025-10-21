@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/revocoder.dir/link.d CMakeFiles/revocoder.dir/src/main.cpp.o -o revocoder  lib/libwifi_lib.a
